@@ -1,0 +1,2 @@
+2020-02-22 12:40:55 [31mWARN [0;39m [36makka.actor.CoordinatedShutdown[0;39m [35mCoordinatedShutdown(akka://play-dev-mode)[0;39m Task [shutdown-application-dev-mode] failed in phase [service-stop]: Cannot load module[Module [play.api.db.HikariCPModule] cannot be instantiated.]
+2020-02-22 12:40:55 [31mWARN [0;39m [36makka.actor.CoordinatedShutdown[0;39m [35mCoordinatedShutdown(akka://play-dev-mode)[0;39m Task [shutdown-application-dev-mode] failed in phase [service-stop]: Cannot load module[Module [play.api.db.HikariCPModule] cannot be instantiated.]
